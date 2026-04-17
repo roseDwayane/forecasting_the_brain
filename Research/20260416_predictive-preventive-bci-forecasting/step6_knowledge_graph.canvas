@@ -1,0 +1,1897 @@
+{
+  "nodes": [
+    {
+      "id": "overview",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step6_sota_review.md",
+      "x": 2000,
+      "y": 0,
+      "width": 450,
+      "height": 100,
+      "color": "6"
+    },
+    {
+      "id": "theme-1",
+      "type": "group",
+      "x": 0,
+      "y": 200,
+      "width": 1100,
+      "height": 1730,
+      "label": "Theme 1: Deep Sequence Models for Seizure Prediction / 深度序列模型於癲癇預測"
+    },
+    {
+      "id": "theme-5",
+      "type": "group",
+      "x": 1200,
+      "y": 200,
+      "width": 1100,
+      "height": 1650,
+      "label": "Theme 5: Cross-Domain Predictive BCIs & Reviews / 跨域預測式 BCI 與文獻回顧"
+    },
+    {
+      "id": "theme-2",
+      "type": "group",
+      "x": 0,
+      "y": 2030,
+      "width": 760,
+      "height": 1090,
+      "label": "Theme 2: Representation Learning & Transferable EEG / 表徵學習與可遷移 EEG 模型"
+    },
+    {
+      "id": "theme-3",
+      "type": "group",
+      "x": 860,
+      "y": 2030,
+      "width": 420,
+      "height": 930,
+      "label": "Theme 3: Cross-Patient Generalization & Privacy / 跨病患泛化、個人化與隱私"
+    },
+    {
+      "id": "theme-4",
+      "type": "group",
+      "x": 1380,
+      "y": 2030,
+      "width": 760,
+      "height": 690,
+      "label": "Theme 4: Efficient & Deployable Predictive BCIs / 高效可部署預測式 BCI"
+    },
+    {
+      "id": "WesalEtAl2026",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/WesalEtAl2026.md",
+      "x": 50,
+      "y": 290,
+      "width": 320,
+      "height": 70,
+      "color": "3"
+    },
+    {
+      "id": "KoutsouvelisEtAl2024",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/KoutsouvelisEtAl2024.md",
+      "x": 390,
+      "y": 290,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "WuEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/WuEtAl2025.md",
+      "x": 730,
+      "y": 290,
+      "width": 320,
+      "height": 70,
+      "color": "3"
+    },
+    {
+      "id": "SunkaraRajakumari2023",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/SunkaraRajakumari2023.md",
+      "x": 50,
+      "y": 370,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "QuEtAl2026",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/QuEtAl2026.md",
+      "x": 390,
+      "y": 370,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "AhmadEtAl2026",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/AhmadEtAl2026.md",
+      "x": 730,
+      "y": 370,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "LiaoEtAl2025a",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/LiaoEtAl2025a.md",
+      "x": 50,
+      "y": 450,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "PhamTran2026",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/PhamTran2026.md",
+      "x": 390,
+      "y": 450,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "ZhengEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/ZhengEtAl2025.md",
+      "x": 730,
+      "y": 450,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "AbbasiEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/AbbasiEtAl2025.md",
+      "x": 50,
+      "y": 530,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "WangEtAl2026b",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/WangEtAl2026b.md",
+      "x": 390,
+      "y": 530,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "AlkhrijahEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/AlkhrijahEtAl2025.md",
+      "x": 730,
+      "y": 530,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "WangEtAl2025c",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/WangEtAl2025c.md",
+      "x": 50,
+      "y": 610,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "LiEtAl2025b",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/LiEtAl2025b.md",
+      "x": 390,
+      "y": 610,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "EsmaeilpourEtAl2024",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/EsmaeilpourEtAl2024.md",
+      "x": 730,
+      "y": 610,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "CostaEtAl2024",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/CostaEtAl2024.md",
+      "x": 50,
+      "y": 690,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "PrathabanBalasubramanian2021",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/PrathabanBalasubramanian2021.md",
+      "x": 390,
+      "y": 690,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "YamakawaEtAl2020",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/YamakawaEtAl2020.md",
+      "x": 730,
+      "y": 690,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "WangEtAl2021a",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/WangEtAl2021a.md",
+      "x": 50,
+      "y": 770,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "ShiLiu2023",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/ShiLiu2023.md",
+      "x": 390,
+      "y": 770,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "GunasekaranEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/GunasekaranEtAl2025.md",
+      "x": 730,
+      "y": 770,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "GhanimiEtAl2024",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/GhanimiEtAl2024.md",
+      "x": 50,
+      "y": 850,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "Cherouati2023",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/Cherouati2023.md",
+      "x": 390,
+      "y": 850,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "HusseinEtAl2022",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/HusseinEtAl2022.md",
+      "x": 730,
+      "y": 850,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "KimEtAl2025b",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/KimEtAl2025b.md",
+      "x": 50,
+      "y": 930,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "TanEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/TanEtAl2025.md",
+      "x": 390,
+      "y": 930,
+      "width": 320,
+      "height": 70,
+      "color": "3"
+    },
+    {
+      "id": "YimanWenqi2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/YimanWenqi2025.md",
+      "x": 730,
+      "y": 930,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "QamarEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/QamarEtAl2025.md",
+      "x": 50,
+      "y": 1010,
+      "width": 320,
+      "height": 70,
+      "color": "3"
+    },
+    {
+      "id": "MohammadSaeed2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/MohammadSaeed2025.md",
+      "x": 390,
+      "y": 1010,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "KapustynskaEtAl2024",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/KapustynskaEtAl2024.md",
+      "x": 730,
+      "y": 1010,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "NEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/NEtAl2025.md",
+      "x": 50,
+      "y": 1090,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "KumarEtAl2026",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/KumarEtAl2026.md",
+      "x": 390,
+      "y": 1090,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "FengEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/FengEtAl2025.md",
+      "x": 730,
+      "y": 1090,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "WangEtAl2021b",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/WangEtAl2021b.md",
+      "x": 50,
+      "y": 1170,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "CaoEtAl2018",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/CaoEtAl2018.md",
+      "x": 390,
+      "y": 1170,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "NasseriEtAl2021",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/NasseriEtAl2021.md",
+      "x": 730,
+      "y": 1170,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "AbdelhameedBayoumi2021",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/AbdelhameedBayoumi2021.md",
+      "x": 50,
+      "y": 1250,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "SaadoonEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/SaadoonEtAl2025.md",
+      "x": 390,
+      "y": 1250,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "Chen2023",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/Chen2023.md",
+      "x": 730,
+      "y": 1250,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "RenEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/RenEtAl2025.md",
+      "x": 50,
+      "y": 1330,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "AlarfajEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/AlarfajEtAl2025.md",
+      "x": 390,
+      "y": 1330,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "GodoyEtAl2022",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/GodoyEtAl2022.md",
+      "x": 730,
+      "y": 1330,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "ZhouEtAl2026a",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/ZhouEtAl2026a.md",
+      "x": 50,
+      "y": 1410,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "ZhangZhang2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/ZhangZhang2025.md",
+      "x": 390,
+      "y": 1410,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "HasnaouiDjebbari2026",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/HasnaouiDjebbari2026.md",
+      "x": 730,
+      "y": 1410,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "WongEtAl2023",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/WongEtAl2023.md",
+      "x": 50,
+      "y": 1490,
+      "width": 320,
+      "height": 70,
+      "color": "3"
+    },
+    {
+      "id": "PN2024",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/PN2024.md",
+      "x": 390,
+      "y": 1490,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "RaibagEtAl2024",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/RaibagEtAl2024.md",
+      "x": 730,
+      "y": 1490,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "AnsariEtAl2020",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/AnsariEtAl2020.md",
+      "x": 50,
+      "y": 1570,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "FeudjioEtAl2021",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/FeudjioEtAl2021.md",
+      "x": 390,
+      "y": 1570,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "MalikEtAl2026",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/MalikEtAl2026.md",
+      "x": 730,
+      "y": 1570,
+      "width": 320,
+      "height": 70,
+      "color": "3"
+    },
+    {
+      "id": "VelasquezEtAl2024",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/VelasquezEtAl2024.md",
+      "x": 50,
+      "y": 1650,
+      "width": 320,
+      "height": 70,
+      "color": "3"
+    },
+    {
+      "id": "KhanEtAl2018",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/KhanEtAl2018.md",
+      "x": 390,
+      "y": 1650,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "DissanayakeEtAl2020",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/DissanayakeEtAl2020.md",
+      "x": 730,
+      "y": 1650,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "XuEtAl2022",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/XuEtAl2022.md",
+      "x": 50,
+      "y": 1730,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "WangEtAl2026a",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/WangEtAl2026a.md",
+      "x": 390,
+      "y": 1730,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "JiangEtAl2024a",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/JiangEtAl2024a.md",
+      "x": 730,
+      "y": 1730,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "WangEtAl2025b",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/WangEtAl2025b.md",
+      "x": 50,
+      "y": 1810,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "HasijaEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/HasijaEtAl2025.md",
+      "x": 390,
+      "y": 1810,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "FengEtAl2026",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/FengEtAl2026.md",
+      "x": 730,
+      "y": 1810,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "GuoEtAl2023",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/GuoEtAl2023.md",
+      "x": 50,
+      "y": 2120,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "QiEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/QiEtAl2025.md",
+      "x": 390,
+      "y": 2120,
+      "width": 320,
+      "height": 70,
+      "color": "6"
+    },
+    {
+      "id": "BaryMacq2024",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/BaryMacq2024.md",
+      "x": 50,
+      "y": 2200,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "MahdiBaghdadi2026",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/MahdiBaghdadi2026.md",
+      "x": 390,
+      "y": 2200,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "YinEtAl2026",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/YinEtAl2026.md",
+      "x": 50,
+      "y": 2280,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "StaffordEtAl2026",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/StaffordEtAl2026.md",
+      "x": 390,
+      "y": 2280,
+      "width": 320,
+      "height": 70,
+      "color": "4"
+    },
+    {
+      "id": "LiaoEtAl2024",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/LiaoEtAl2024.md",
+      "x": 50,
+      "y": 2360,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "ShiEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/ShiEtAl2025.md",
+      "x": 390,
+      "y": 2360,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "LutesEtAl2022",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/LutesEtAl2022.md",
+      "x": 50,
+      "y": 2440,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "HoffsommerEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/HoffsommerEtAl2025.md",
+      "x": 390,
+      "y": 2440,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "PuahEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/PuahEtAl2025.md",
+      "x": 50,
+      "y": 2520,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "PelentritouEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/PelentritouEtAl2025.md",
+      "x": 390,
+      "y": 2520,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "Anjum2024",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/Anjum2024.md",
+      "x": 50,
+      "y": 2600,
+      "width": 320,
+      "height": 70,
+      "color": "6"
+    },
+    {
+      "id": "KollaEtAl2026",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/KollaEtAl2026.md",
+      "x": 390,
+      "y": 2600,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "ZhouEtAl2026b",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/ZhouEtAl2026b.md",
+      "x": 50,
+      "y": 2680,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "MajumderEtAl2026",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/MajumderEtAl2026.md",
+      "x": 390,
+      "y": 2680,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "Kumar2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/Kumar2025.md",
+      "x": 50,
+      "y": 2760,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "KeyEtAl2024",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/KeyEtAl2024.md",
+      "x": 390,
+      "y": 2760,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "TruongDelorme2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/TruongDelorme2025.md",
+      "x": 50,
+      "y": 2840,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "MoncyEtAl2025b",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/MoncyEtAl2025b.md",
+      "x": 390,
+      "y": 2840,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "MoncyEtAl2025a",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/MoncyEtAl2025a.md",
+      "x": 50,
+      "y": 2920,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "SaeediEtAl2023",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/SaeediEtAl2023.md",
+      "x": 390,
+      "y": 2920,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "KimEtAl2025a",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/KimEtAl2025a.md",
+      "x": 50,
+      "y": 3000,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "YangModesitt2023",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/YangModesitt2023.md",
+      "x": 390,
+      "y": 3000,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "AmiriEtAl2026",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/AmiriEtAl2026.md",
+      "x": 910,
+      "y": 2120,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "TariqEtAl2020",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/TariqEtAl2020.md",
+      "x": 910,
+      "y": 2200,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "DaoudBayoumi2019",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/DaoudBayoumi2019.md",
+      "x": 910,
+      "y": 2280,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "ChoiEtAl2022",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/ChoiEtAl2022.md",
+      "x": 910,
+      "y": 2360,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "RevathyM2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/RevathyM2025.md",
+      "x": 910,
+      "y": 2440,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "LiEtAl2025a",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/LiEtAl2025a.md",
+      "x": 910,
+      "y": 2520,
+      "width": 320,
+      "height": 70,
+      "color": "5"
+    },
+    {
+      "id": "KhanEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/KhanEtAl2025.md",
+      "x": 910,
+      "y": 2600,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "JeongEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/JeongEtAl2025.md",
+      "x": 910,
+      "y": 2680,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "JabbarEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/JabbarEtAl2025.md",
+      "x": 910,
+      "y": 2760,
+      "width": 320,
+      "height": 70,
+      "color": "6"
+    },
+    {
+      "id": "JadduEtAl2024",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/JadduEtAl2024.md",
+      "x": 910,
+      "y": 2840,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "CaoEtAl2026",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/CaoEtAl2026.md",
+      "x": 1430,
+      "y": 2120,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "ZhangEtAl2026",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/ZhangEtAl2026.md",
+      "x": 1770,
+      "y": 2120,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "LiEtAl2022",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/LiEtAl2022.md",
+      "x": 1430,
+      "y": 2200,
+      "width": 320,
+      "height": 70,
+      "color": "5"
+    },
+    {
+      "id": "YedurkarEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/YedurkarEtAl2025.md",
+      "x": 1770,
+      "y": 2200,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "JangEtAl2026",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/JangEtAl2026.md",
+      "x": 1430,
+      "y": 2280,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "ThahniyathEtAl2024",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/ThahniyathEtAl2024.md",
+      "x": 1770,
+      "y": 2280,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "SEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/SEtAl2025.md",
+      "x": 1430,
+      "y": 2360,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "SharmaEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/SharmaEtAl2025.md",
+      "x": 1770,
+      "y": 2360,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "RenEtAl2022",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/RenEtAl2022.md",
+      "x": 1430,
+      "y": 2440,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "Paneru2026",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/Paneru2026.md",
+      "x": 1770,
+      "y": 2440,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "PaillardEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/PaillardEtAl2025.md",
+      "x": 1430,
+      "y": 2520,
+      "width": 320,
+      "height": 70,
+      "color": "6"
+    },
+    {
+      "id": "YangEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/YangEtAl2025.md",
+      "x": 1770,
+      "y": 2520,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "De2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/De2025.md",
+      "x": 1430,
+      "y": 2600,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "MaioraEtAl2024",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/MaioraEtAl2024.md",
+      "x": 1250,
+      "y": 290,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "CesariEtAl2023",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/CesariEtAl2023.md",
+      "x": 1590,
+      "y": 290,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "GuanEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/GuanEtAl2025.md",
+      "x": 1930,
+      "y": 290,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "KapustynskaEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/KapustynskaEtAl2025.md",
+      "x": 1250,
+      "y": 370,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "TomalinEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/TomalinEtAl2025.md",
+      "x": 1590,
+      "y": 370,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "ZhangEtAl2024",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/ZhangEtAl2024.md",
+      "x": 1930,
+      "y": 370,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "LinEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/LinEtAl2025.md",
+      "x": 1250,
+      "y": 450,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "Chakraborty2026",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/Chakraborty2026.md",
+      "x": 1590,
+      "y": 450,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "DinhEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/DinhEtAl2025.md",
+      "x": 1930,
+      "y": 450,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "NesaragiEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/NesaragiEtAl2025.md",
+      "x": 1250,
+      "y": 530,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "JamaraniEtAl2026",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/JamaraniEtAl2026.md",
+      "x": 1590,
+      "y": 530,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "BanvilleEtAl2020",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/BanvilleEtAl2020.md",
+      "x": 1930,
+      "y": 530,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "ZhangEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/ZhangEtAl2025.md",
+      "x": 1250,
+      "y": 610,
+      "width": 320,
+      "height": 70,
+      "color": "6"
+    },
+    {
+      "id": "JankevičiūtėEtAl2026",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/JankevičiūtėEtAl2026.md",
+      "x": 1590,
+      "y": 610,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "LiaoEtAl2025b",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/LiaoEtAl2025b.md",
+      "x": 1930,
+      "y": 610,
+      "width": 320,
+      "height": 70,
+      "color": "3"
+    },
+    {
+      "id": "CavanaghEtAl2024",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/CavanaghEtAl2024.md",
+      "x": 1250,
+      "y": 690,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "MehrlatifanMolla2024",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/MehrlatifanMolla2024.md",
+      "x": 1590,
+      "y": 690,
+      "width": 320,
+      "height": 70,
+      "color": "3"
+    },
+    {
+      "id": "MouEtAl2026",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/MouEtAl2026.md",
+      "x": 1930,
+      "y": 690,
+      "width": 320,
+      "height": 70,
+      "color": "3"
+    },
+    {
+      "id": "Al-QuraishiEtAl2024",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/Al-QuraishiEtAl2024.md",
+      "x": 1250,
+      "y": 770,
+      "width": 320,
+      "height": 70,
+      "color": "3"
+    },
+    {
+      "id": "SakakibaraEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/SakakibaraEtAl2025.md",
+      "x": 1590,
+      "y": 770,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "ChenEtAl2026a",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/ChenEtAl2026a.md",
+      "x": 1930,
+      "y": 770,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "GeEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/GeEtAl2025.md",
+      "x": 1250,
+      "y": 850,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "YangEtAl2026",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/YangEtAl2026.md",
+      "x": 1590,
+      "y": 850,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "SercekEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/SercekEtAl2025.md",
+      "x": 1930,
+      "y": 850,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "GongEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/GongEtAl2025.md",
+      "x": 1250,
+      "y": 930,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "EguinoaEtAl2026",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/EguinoaEtAl2026.md",
+      "x": 1590,
+      "y": 930,
+      "width": 320,
+      "height": 70,
+      "color": "6"
+    },
+    {
+      "id": "SuffianEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/SuffianEtAl2025.md",
+      "x": 1930,
+      "y": 930,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "DegirmenciEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/DegirmenciEtAl2025.md",
+      "x": 1250,
+      "y": 1010,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "RommelEtAl2022",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/RommelEtAl2022.md",
+      "x": 1590,
+      "y": 1010,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "ZhongEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/ZhongEtAl2025.md",
+      "x": 1930,
+      "y": 1010,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "Gómez-MoralesEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/Gómez-MoralesEtAl2025.md",
+      "x": 1250,
+      "y": 1090,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "FuEtAl2026",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/FuEtAl2026.md",
+      "x": 1590,
+      "y": 1090,
+      "width": 320,
+      "height": 70,
+      "color": "6"
+    },
+    {
+      "id": "WangEtAl2025a",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/WangEtAl2025a.md",
+      "x": 1930,
+      "y": 1090,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "ZhongEtAl2026",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/ZhongEtAl2026.md",
+      "x": 1250,
+      "y": 1170,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "ChenEtAl2026b",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/ChenEtAl2026b.md",
+      "x": 1590,
+      "y": 1170,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "XuYu2026",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/XuYu2026.md",
+      "x": 1930,
+      "y": 1170,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "Al-HammouriEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/Al-HammouriEtAl2025.md",
+      "x": 1250,
+      "y": 1250,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "BalarKapila2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/BalarKapila2025.md",
+      "x": 1590,
+      "y": 1250,
+      "width": 320,
+      "height": 70,
+      "color": "6"
+    },
+    {
+      "id": "JiangEtAl2024b",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/JiangEtAl2024b.md",
+      "x": 1930,
+      "y": 1250,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "ZhuEtAl2026",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/ZhuEtAl2026.md",
+      "x": 1250,
+      "y": 1330,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "GongEtAl2026",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/GongEtAl2026.md",
+      "x": 1590,
+      "y": 1330,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "SchwarzEtAl2023",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/SchwarzEtAl2023.md",
+      "x": 1930,
+      "y": 1330,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "LuEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/LuEtAl2025.md",
+      "x": 1250,
+      "y": 1410,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "SonntagEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/SonntagEtAl2025.md",
+      "x": 1590,
+      "y": 1410,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "GargEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/GargEtAl2025.md",
+      "x": 1930,
+      "y": 1410,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "ZuoEtAl2024",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/ZuoEtAl2024.md",
+      "x": 1250,
+      "y": 1490,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "AkamaEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/AkamaEtAl2025.md",
+      "x": 1590,
+      "y": 1490,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "ChanEtAl2023",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/ChanEtAl2023.md",
+      "x": 1930,
+      "y": 1490,
+      "width": 320,
+      "height": 70,
+      "color": "4"
+    },
+    {
+      "id": "HrubýEtAl2026",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/HrubýEtAl2026.md",
+      "x": 1250,
+      "y": 1570,
+      "width": 320,
+      "height": 70,
+      "color": "3"
+    },
+    {
+      "id": "KölblEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/KölblEtAl2025.md",
+      "x": 1590,
+      "y": 1570,
+      "width": 320,
+      "height": 70,
+      "color": "6"
+    },
+    {
+      "id": "CinquettiEtAl2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/CinquettiEtAl2025.md",
+      "x": 1930,
+      "y": 1570,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "DercksenEtAl2026",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/DercksenEtAl2026.md",
+      "x": 1250,
+      "y": 1650,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "Lanini-MaggiEtAl2021",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/Lanini-MaggiEtAl2021.md",
+      "x": 1590,
+      "y": 1650,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "KrishnaEtAl2020",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/KrishnaEtAl2020.md",
+      "x": 1930,
+      "y": 1650,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    },
+    {
+      "id": "TheivadasPonnan2025",
+      "type": "file",
+      "file": "Research/20260416_predictive-preventive-bci-forecasting/step5_full_text/TheivadasPonnan2025.md",
+      "x": 1250,
+      "y": 1730,
+      "width": 320,
+      "height": 70,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-overview-t1",
+      "fromNode": "overview",
+      "fromSide": "bottom",
+      "toNode": "theme-1",
+      "toSide": "top",
+      "label": "Theme 1"
+    },
+    {
+      "id": "edge-overview-t2",
+      "fromNode": "overview",
+      "fromSide": "bottom",
+      "toNode": "theme-2",
+      "toSide": "top",
+      "label": "Theme 2"
+    },
+    {
+      "id": "edge-overview-t3",
+      "fromNode": "overview",
+      "fromSide": "bottom",
+      "toNode": "theme-3",
+      "toSide": "top",
+      "label": "Theme 3"
+    },
+    {
+      "id": "edge-overview-t4",
+      "fromNode": "overview",
+      "fromSide": "bottom",
+      "toNode": "theme-4",
+      "toSide": "top",
+      "label": "Theme 4"
+    },
+    {
+      "id": "edge-overview-t5",
+      "fromNode": "overview",
+      "fromSide": "bottom",
+      "toNode": "theme-5",
+      "toSide": "top",
+      "label": "Theme 5"
+    },
+    {
+      "id": "edge-AlkhrijahEtAl2025-SunkaraRajakumari2023",
+      "fromNode": "AlkhrijahEtAl2025",
+      "fromSide": "right",
+      "toNode": "SunkaraRajakumari2023",
+      "toSide": "left",
+      "label": "shared: Bi-LSTM seizure prediction"
+    },
+    {
+      "id": "edge-LiaoEtAl2025a-QuEtAl2026",
+      "fromNode": "LiaoEtAl2025a",
+      "fromSide": "right",
+      "toNode": "QuEtAl2026",
+      "toSide": "left",
+      "label": "shared: attention + spatio-temporal EEG"
+    },
+    {
+      "id": "edge-LiEtAl2025b-QuEtAl2026",
+      "fromNode": "LiEtAl2025b",
+      "fromSide": "right",
+      "toNode": "QuEtAl2026",
+      "toSide": "left",
+      "label": "shared: attention architecture + adaptive windowing"
+    },
+    {
+      "id": "edge-PhamTran2026-ZhangEtAl2026",
+      "fromNode": "PhamTran2026",
+      "fromSide": "right",
+      "toNode": "ZhangEtAl2026",
+      "toSide": "left",
+      "label": "shared: Transformer for seizure forecasting"
+    },
+    {
+      "id": "edge-WangEtAl2025c-LiaoEtAl2025a",
+      "fromNode": "WangEtAl2025c",
+      "fromSide": "right",
+      "toNode": "LiaoEtAl2025a",
+      "toSide": "left",
+      "label": "shared: graph-transformer hybrid on EEG"
+    },
+    {
+      "id": "edge-AhmadEtAl2026-AlkhrijahEtAl2025",
+      "fromNode": "AhmadEtAl2026",
+      "fromSide": "right",
+      "toNode": "AlkhrijahEtAl2025",
+      "toSide": "left",
+      "label": "shared: hybrid CNN-LSTM benchmark"
+    },
+    {
+      "id": "edge-WangEtAl2026b-WangEtAl2025c",
+      "fromNode": "WangEtAl2026b",
+      "fromSide": "right",
+      "toNode": "WangEtAl2025c",
+      "toSide": "left",
+      "label": "shared: explainability in seizure prediction"
+    },
+    {
+      "id": "edge-KoutsouvelisEtAl2024-AmiriEtAl2026",
+      "fromNode": "KoutsouvelisEtAl2024",
+      "fromSide": "right",
+      "toNode": "AmiriEtAl2026",
+      "toSide": "left",
+      "label": "shared: cross-patient generalization"
+    },
+    {
+      "id": "edge-AmiriEtAl2026-LiaoEtAl2025a",
+      "fromNode": "AmiriEtAl2026",
+      "fromSide": "right",
+      "toNode": "LiaoEtAl2025a",
+      "toSide": "left",
+      "label": "shared: graph neural nets for EEG prediction"
+    },
+    {
+      "id": "edge-ZhengEtAl2025-AmiriEtAl2026",
+      "fromNode": "ZhengEtAl2025",
+      "fromSide": "right",
+      "toNode": "AmiriEtAl2026",
+      "toSide": "left",
+      "label": "shared: channel/patient adaptation"
+    },
+    {
+      "id": "edge-CaoEtAl2026-LiaoEtAl2025a",
+      "fromNode": "CaoEtAl2026",
+      "fromSide": "right",
+      "toNode": "LiaoEtAl2025a",
+      "toSide": "left",
+      "label": "shared: CHB-MIT benchmark + distillation target"
+    },
+    {
+      "id": "edge-JangEtAl2026-AbbasiEtAl2025",
+      "fromNode": "JangEtAl2026",
+      "fromSide": "right",
+      "toNode": "AbbasiEtAl2025",
+      "toSide": "left",
+      "label": "shared: resource-constrained seizure prediction"
+    },
+    {
+      "id": "edge-AbbasiEtAl2025-LiEtAl2022",
+      "fromNode": "AbbasiEtAl2025",
+      "fromSide": "right",
+      "toNode": "LiEtAl2022",
+      "toSide": "left",
+      "label": "shared: edge/hardware-aware prediction"
+    },
+    {
+      "id": "edge-YedurkarEtAl2025-AbbasiEtAl2025",
+      "fromNode": "YedurkarEtAl2025",
+      "fromSide": "right",
+      "toNode": "AbbasiEtAl2025",
+      "toSide": "left",
+      "label": "shared: IoT seizure prediction pipeline"
+    },
+    {
+      "id": "edge-GuoEtAl2023-QiEtAl2025",
+      "fromNode": "GuoEtAl2023",
+      "fromSide": "right",
+      "toNode": "QiEtAl2025",
+      "toSide": "left",
+      "label": "shared: contrastive learning for seizures"
+    },
+    {
+      "id": "edge-BaryMacq2024-GuoEtAl2023",
+      "fromNode": "BaryMacq2024",
+      "fromSide": "right",
+      "toNode": "GuoEtAl2023",
+      "toSide": "left",
+      "label": "shared: SSL for EEG"
+    },
+    {
+      "id": "edge-MahdiBaghdadi2026-BaryMacq2024",
+      "fromNode": "MahdiBaghdadi2026",
+      "fromSide": "right",
+      "toNode": "BaryMacq2024",
+      "toSide": "left",
+      "label": "shared: pretrained Transformer + adaptation"
+    },
+    {
+      "id": "edge-BaryMacq2024-AmiriEtAl2026",
+      "fromNode": "BaryMacq2024",
+      "fromSide": "right",
+      "toNode": "AmiriEtAl2026",
+      "toSide": "left",
+      "label": "shared: pretraining enabling cross-patient"
+    },
+    {
+      "id": "edge-MaioraEtAl2024-AhmadEtAl2026",
+      "fromNode": "MaioraEtAl2024",
+      "fromSide": "right",
+      "toNode": "AhmadEtAl2026",
+      "toSide": "left",
+      "label": "methodological transfer: BiLSTM → fall prediction"
+    },
+    {
+      "id": "edge-WesalEtAl2026-CaoEtAl2026",
+      "fromNode": "WesalEtAl2026",
+      "fromSide": "right",
+      "toNode": "CaoEtAl2026",
+      "toSide": "left",
+      "label": "review includes compact seizure prediction"
+    },
+    {
+      "id": "edge-WuEtAl2025-AlkhrijahEtAl2025",
+      "fromNode": "WuEtAl2025",
+      "fromSide": "right",
+      "toNode": "AlkhrijahEtAl2025",
+      "toSide": "left",
+      "label": "review includes DL seizure prediction"
+    },
+    {
+      "id": "edge-WesalEtAl2026-WuEtAl2025",
+      "fromNode": "WesalEtAl2026",
+      "fromSide": "right",
+      "toNode": "WuEtAl2025",
+      "toSide": "left",
+      "label": "shared: scoping review of wearable seizure"
+    }
+  ]
+}

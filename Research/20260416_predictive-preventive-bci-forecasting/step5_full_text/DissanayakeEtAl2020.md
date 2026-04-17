@@ -1,0 +1,28 @@
+---
+citation_key: "DissanayakeEtAl2020"
+paper_id: "paper_269"
+title: "Patient-independent Epileptic Seizure Prediction using Deep Learning Models"
+authors: "Theekshana Dissanayake; Tharindu Fernando; Simon Denman; Sridha Sridharan; Clinton Fookes"
+year: 2020
+doi: ""
+source: "abstract-only (metadata from Step 2 search)"
+access_level: "abstract-only"
+retrieved_date: "2026-04-16"
+arxiv_id: "2011.09581"
+tier: 3
+composite: 3.8
+---
+
+# Patient-independent Epileptic Seizure Prediction using Deep Learning Models
+
+**Citation:** `DissanayakeEtAl2020` · **Tier:** 3 · **Composite:** 3.8
+
+- **arXiv**: [2011.09581](https://arxiv.org/abs/2011.09581)
+- **URL**: [http://arxiv.org/abs/2011.09581v1](http://arxiv.org/abs/2011.09581v1)
+
+> **Note / 備註:** Full text not fetched in this pipeline run — only Tier 1 PDFs were provided by the user. Abstract shown below (from Step 2 search metadata). For full text, try institutional access via DOI.
+> 本次流程僅處理使用者提供的 Tier 1 PDF。以下為 Step 2 搜尋階段擷取之摘要。如需全文請透過 DOI 嘗試機構存取。
+
+## Abstract
+
+Objective: Epilepsy is one of the most prevalent neurological diseases among humans and can lead to severe brain injuries, strokes, and brain tumors. Early detection of seizures can help to mitigate injuries, and can be used to aid the treatment of patients with epilepsy. The purpose of a seizure prediction system is to successfully identify the pre-ictal brain stage, which occurs before a seizure event. Patient-independent seizure prediction models are designed to offer accurate performance across multiple subjects within a dataset, and have been identified as a real-world solution to the seizure prediction problem. However, little attention has been given for designing such models to adapt to the high inter-subject variability in EEG data. Methods: We propose two patient-independent deep learning architectures with different learning strategies that can learn a global function utilizing data from multiple subjects. Results: Proposed models achieve state-of-the-art performance for seizure prediction on the CHB-MIT-EEG dataset, demonstrating 88.81% and 91.54% accuracy respectively. Conclusions: The Siamese model trained on the proposed learning strategy is able to learn patterns related to patient variations in data while predicting seizures. Significance: Our models show superior performance for patient-independent seizure prediction, and the same architecture can be used as a patient-specific classifier after model adaptation. We are the first study that employs model interpretation to understand classifier behavior for the task for seizure prediction, and we also show that the MFCC feature map utilized by our models contains predictive biomarkers related to interictal and pre-ictal brain states.

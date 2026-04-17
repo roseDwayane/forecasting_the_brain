@@ -1,0 +1,27 @@
+---
+citation_key: "Gómez-MoralesEtAl2025"
+paper_id: "paper_199"
+title: "EEG Signal Prediction for Motor Imagery Classification in Brain-Computer Interfaces."
+authors: "Óscar Wladimir Gómez-Morales; Diego Fabian Collazos-Huertas; Andrés Marino Álvarez-Meza; Cesar German Castellanos-Dominguez"
+year: 2025
+doi: "10.3390/s25072259"
+source: "abstract-only (metadata from Step 2 search)"
+access_level: "abstract-only"
+retrieved_date: "2026-04-16"
+tier: 4
+composite: 3.7
+---
+
+# EEG Signal Prediction for Motor Imagery Classification in Brain-Computer Interfaces.
+
+**Citation:** `Gómez-MoralesEtAl2025` · **Tier:** 4 · **Composite:** 3.7
+
+- **DOI**: [10.3390/s25072259](https://doi.org/10.3390/s25072259)
+- **URL**: [https://pubmed.ncbi.nlm.nih.gov/40218770/](https://pubmed.ncbi.nlm.nih.gov/40218770/)
+
+> **Note / 備註:** Full text not fetched in this pipeline run — only Tier 1 PDFs were provided by the user. Abstract shown below (from Step 2 search metadata). For full text, try institutional access via DOI.
+> 本次流程僅處理使用者提供的 Tier 1 PDF。以下為 Step 2 搜尋階段擷取之摘要。如需全文請透過 DOI 嘗試機構存取。
+
+## Abstract
+
+Brain-computer interfaces (BCIs) based on motor imagery (MI) generally require EEG signals recorded from a large number of electrodes distributed across the cranial surface to achieve accurate MI classification. Not only does this entail long preparation times and high costs, but it also carries the risk of losing valuable information when an electrode is damaged, further limiting its practical applicability. In this study, a signal prediction-based method is proposed to achieve high accuracy in MI classification using EEG signals recorded from only a small number of electrodes. The signal prediction model was constructed using the elastic net regression technique, allowing for the estimation of EEG signals from 22 complete channels based on just 8 centrally located channels. The predicted EEG signals from the complete channels were used for feature extraction and MI classification. The results obtained indicate a notable efficacy of the proposed prediction method, showing an average performance of 78.16% in classification accuracy. The proposed method demonstrated superior performance compared to the traditional approach that used few-channel EEG and also achieved better results than the traditional method based on full-channel EEG. Although accuracy varies among subjects, from 62.30% to an impressive 95.24%, these data indicate the capability of the method to provide accurate estimates from a reduced set of electrodes. This performance highlights its potential to be implemented in practical MI-based BCI applications, thereby mitigating the time and cost constraints associated with systems that require a high density of electrodes.

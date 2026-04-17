@@ -1,0 +1,49 @@
+{
+  "session_id": "20260416",
+  "topic": "Predictive and Preventive Brain-Computer Interfaces: Forecasting Cognitive States and Adverse Health Events from Neural and Physiological Signals",
+  "topic_original": "Predictive and Preventive Brain-Computer Interfaces: Forecasting Cognitive States and Adverse Health Events from Neural and Physiological Signals",
+  "topic_slug": "predictive-preventive-bci-forecasting",
+  "timestamp": "2026-04-16T00:00:00+08:00",
+  "current_step": 7,
+  "pico": {
+    "population": "Human subjects monitored via non-invasive or minimally invasive neural/physiological sensors — including clinical populations (epilepsy, migraine, sleep-disordered adults), older adults at fall risk, and healthy individuals performing vigilance or cognitive tasks",
+    "intervention": "Predictive/forecasting brain-computer interface (BCI) systems that anticipate cognitive states, performance decrements, or adverse health events from EEG and multimodal physiological signals (ECG, accelerometry, eye tracking) using machine learning (CNN, RNN/LSTM, transformers, probabilistic deep learning, federated learning)",
+    "comparison": "Traditional reactive/detection-based BCIs, random-predictor baselines, post-event detection systems, standard clinical monitoring, or no prediction",
+    "outcome": "Prediction accuracy, sensitivity, specificity, false prediction rate, AUC-ROC, lead time (milliseconds to hours before event), prediction uncertainty, and downstream clinical utility (seizure reduction, fall prevention, sleep quality, vigilance maintenance)",
+    "setting": "Ambulatory / wearable, clinical (EMU, sleep lab), home-based, and industrial safety-critical environments",
+    "timeframe": "2019-2026 (with seminal works 2002-2018 for foundational BCI and predictive coding)"
+  },
+  "source_urls": [],
+  "queries": [
+    {
+      "id": "Q1",
+      "strategy": "Core terms + Population",
+      "query": "(\"predictive brain-computer interface\" OR \"forecasting BCI\" OR \"anticipatory BCI\") AND (EEG OR electroencephalography) AND (prediction OR forecasting)",
+      "rationale": "Direct hit on predictive BCI as a named paradigm — finds papers explicitly framing BCI as predictive/forecasting rather than reactive"
+    },
+    {
+      "id": "Q2",
+      "strategy": "Synonyms + MeSH terms",
+      "query": "(\"seizure prediction\" OR \"preictal\" OR \"pre-ictal\") AND (EEG OR \"wearable\") AND (\"deep learning\" OR \"machine learning\" OR LSTM OR transformer)",
+      "rationale": "Seizure forecasting is the most mature predictive-BCI subfield; this query catches the dense literature using preictal/seizure-prediction terminology that Q1 might miss"
+    },
+    {
+      "id": "Q3",
+      "strategy": "Mechanism + Theoretical basis",
+      "query": "(\"predictive coding\" OR \"active inference\" OR \"anticipatory neural dynamics\" OR \"pre-stimulus EEG\") AND (attention OR vigilance OR perception OR \"cognitive state\")",
+      "rationale": "Finds the neuroscientific foundation — pre-stimulus oscillations, predictive coding, and anticipatory dynamics that justify why forecasting from neural signals is feasible"
+    },
+    {
+      "id": "Q4",
+      "strategy": "Methodology + Study design",
+      "query": "(EEG OR physiological) AND (\"deep learning\" OR \"convolutional neural network\" OR \"recurrent neural network\" OR transformer OR \"federated learning\") AND (forecasting OR prediction) AND (sensitivity OR specificity OR \"false prediction rate\" OR AUC)",
+      "rationale": "Targets rigorous quantitative evaluations — papers reporting standard predictive-performance metrics on real datasets (CHB-MIT, TUSZ, in-home cohorts)"
+    },
+    {
+      "id": "Q5",
+      "strategy": "Cross-disciplinary + Adjacent fields",
+      "query": "(\"wearable sensor\" OR \"multimodal physiological\" OR \"closed-loop\") AND (EEG OR ECG OR accelerometry) AND (\"fall prediction\" OR \"migraine prediction\" OR \"sleep prediction\" OR \"vigilance forecasting\" OR \"drowsiness detection\")",
+      "rationale": "Broadens to adjacent predictive-health domains (falls, migraine, sleep, driver drowsiness) that share the forecasting paradigm but are rarely framed as BCI — important for a cross-domain positional paper"
+    }
+  ]
+}
