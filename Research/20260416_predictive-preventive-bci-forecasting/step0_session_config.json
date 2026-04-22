@@ -4,7 +4,7 @@
   "topic_original": "Predictive and Preventive Brain-Computer Interfaces: Forecasting Cognitive States and Adverse Health Events from Neural and Physiological Signals",
   "topic_slug": "predictive-preventive-bci-forecasting",
   "timestamp": "2026-04-16T00:00:00+08:00",
-  "current_step": 7,
+  "current_step": 9,
   "pico": {
     "population": "Human subjects monitored via non-invasive or minimally invasive neural/physiological sensors — including clinical populations (epilepsy, migraine, sleep-disordered adults), older adults at fall risk, and healthy individuals performing vigilance or cognitive tasks",
     "intervention": "Predictive/forecasting brain-computer interface (BCI) systems that anticipate cognitive states, performance decrements, or adverse health events from EEG and multimodal physiological signals (ECG, accelerometry, eye tracking) using machine learning (CNN, RNN/LSTM, transformers, probabilistic deep learning, federated learning)",
